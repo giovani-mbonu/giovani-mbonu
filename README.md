@@ -1,7 +1,7 @@
 # Hi there, I'm Giovani Mbonu 👋
 
 🎓 BSc Information Technology Student @ Babcock University, Nigeria (200 Level)
-🌍 Based in Nigeria | Open to internships in 🇸🇪 Sweden & 🇩🇪 Germany
+🌍 Based in Nigeria | Open to internships in Sweden , Germany & Denmark
 📅 Available: January 2027 (6-month internship)
 🎯 Interested in: IT Support | Systems Administration | Web Development
 
@@ -43,8 +43,8 @@
 ## 🌱 Currently Learning
 - IT Support & Systems Administration
 - Basic Swedish 🇸🇪 & German 🇩🇪
-- Cloud fundamentals (AWS/Azure)
-- Networking basics (CompTIA Network+)
+- IT Fundamentals (IBM SkillsBuild)
+- Fundamentals Of Digital Marketing
 
 ---
 
