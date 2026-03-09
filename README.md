@@ -24,7 +24,7 @@
 > Built with HTML & CSS | Responsive design | Version controlled with Git
 - Designed and developed a personal portfolio website from scratch
 - Implemented responsive layout for mobile and desktop
-- [View Project →](https://github.com/giovani-mbonu/portfolio)
+- [View Project →](https://github.com/giovani-mbonu/portfolio-website)
 
 ### 🐍 Python Programming Assignment
 > Python | Problem Solving | Algorithms
