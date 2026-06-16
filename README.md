@@ -42,7 +42,7 @@
 
 ## 🌱 Currently Learning
 - IT Support & Systems Administration
-- Basic Swedish 🇸🇪 & German 🇩🇪
+- Basic Swedish 🇸🇪,German 🇩🇪 & Mandarin 🇨🇳 
 - IT Fundamentals (IBM SkillsBuild)
 - Fundamentals Of Digital Marketing
 
